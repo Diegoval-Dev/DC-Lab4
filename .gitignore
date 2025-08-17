@@ -2,3 +2,7 @@
 /.venv
 /imgs
 venv
+imgs
+out
+maps
+.DS_Store
